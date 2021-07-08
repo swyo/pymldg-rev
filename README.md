@@ -2,7 +2,7 @@
 
 Machine Learning study with python. 
 
-Please visit [wiki](https://github.com/swyo/pymldg-rev/wiki) page to figure out brief explanation of each algorithm.
+Please visit [wiki](https://github.com/swyo/pymldg-rev/wiki) page to figure out brief explanations for each algorithm.
 
 ## jupyter setting
 
